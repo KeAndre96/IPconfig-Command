@@ -1,0 +1,6 @@
+C:\Users\Mr. Graham\Documents\Visual Studio 2015\Projects\NetworksProject\NetworksProject\bin\Debug\NetworksProject.exe.config
+C:\Users\Mr. Graham\Documents\Visual Studio 2015\Projects\NetworksProject\NetworksProject\bin\Debug\NetworksProject.exe
+C:\Users\Mr. Graham\Documents\Visual Studio 2015\Projects\NetworksProject\NetworksProject\bin\Debug\NetworksProject.pdb
+C:\Users\Mr. Graham\Documents\Visual Studio 2015\Projects\NetworksProject\NetworksProject\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Mr. Graham\Documents\Visual Studio 2015\Projects\NetworksProject\NetworksProject\obj\Debug\NetworksProject.exe
+C:\Users\Mr. Graham\Documents\Visual Studio 2015\Projects\NetworksProject\NetworksProject\obj\Debug\NetworksProject.pdb
